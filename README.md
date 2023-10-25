@@ -1,1 +1,1 @@
-# live-link: https://noushadozi.github.io/fruit-burst-design/#slide1
+# live-link: https://noushadozi.github.io/fruit-burst-design
